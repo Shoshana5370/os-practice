@@ -1,6 +1,19 @@
-Hi, I'm Shoshana and this is a new people file.
+# Shoshana
+
+Hi, I’m Shoshana.
 
 Welcome to the community!
 
-- role: Contributor
-- interests: AI, open source, collaboration
+## About me
+
+I love working with AI, open source, and collaboration.
+
+## Role
+
+- Contributor
+
+## Interests
+
+- AI
+- Open source
+- Collaboration
